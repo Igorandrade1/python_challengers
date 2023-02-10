@@ -27,4 +27,4 @@ jobs:
         run: flake8 .
 
       - name: Format with black
-        run: black 
+        run: black main.py
