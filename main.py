@@ -7,5 +7,5 @@ result = (
 for x in range(0, 50):
     print(x)
 
-print('pronto')
-
+print('prontinho')
+print("teste para ver se vai")
